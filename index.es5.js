@@ -1,2 +1,2 @@
-module.exports = require('./src-es5/dygraph');
+module.exports = require('./src/dygraph');
 
